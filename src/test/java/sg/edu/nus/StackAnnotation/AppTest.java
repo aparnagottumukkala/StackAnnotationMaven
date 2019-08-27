@@ -11,7 +11,7 @@ public class AppTest
 {
     /**
      * Rigorous Test :-)
-     hii */
+     hii hjh*/
     @Test
     public void shouldAnswerWithTrue()
     {
